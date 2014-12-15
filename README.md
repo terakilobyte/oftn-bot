@@ -1,6 +1,8 @@
 oftn-bot
 ========
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/terakilobyte/oftn-bot?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is the repository for both of the IRC bots oftn-bot (in #oftn on freenode) and ecmabot (in ##javascript on freenode). This was originally created as a replacement for v8bot (http://github.com/eisd/v8bot). Over time, it changed to include a full-featured IRC bot library.
 
 
